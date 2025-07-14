@@ -142,7 +142,7 @@ Required variables in `.env`:
 - Handles Oracle DB errors and validation issues
 
 ## License
-ISC
+MIT
 
 ## Author
 Sharjeel Siddiqui
